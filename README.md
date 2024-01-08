@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bruxdesign
 - 👀 I’m interested in design and development for the modern world
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Kotlin and Ruby
 - 💞️ I’m looking to collaborate on small projects
 - 📫 Reach me designbruce.com
 <!---
